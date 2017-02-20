@@ -6,7 +6,7 @@ The Traveling Salesman Problem (TSP) formulated by Hamilton and Kirkman is a nat
 To solve this problem, this program uses a branch and bound recursive tree search to determine the shortest tour. 
 
 ## Getting Started
-To view the website, [download the project's source code](https://github.com/phoebechua/winter-beater/archive/master.zip) and run src > WinterBeater2.java. 
+To use the program, [download the project's source code](https://github.com/phoebechua/winter-beater/archive/master.zip) and run src > WinterBeater2.java. 
 
 ## Built With
 * Java
