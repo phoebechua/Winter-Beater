@@ -12,7 +12,7 @@ To use the program, [download the project's source code](https://github.com/phoe
 * Java
 * Python - Used in the initial work to calculate the distance between two locations  
 
-## Authors
+## Author
 * [Phoebe Chua](https://www.linkedin.com/in/phoebechuaky) 
 
 ## References
